@@ -10,5 +10,5 @@ Experience with the following languages, with strongest proficiency with C++
 
 ### Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=clion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode)](https://skillicons.dev)
 
