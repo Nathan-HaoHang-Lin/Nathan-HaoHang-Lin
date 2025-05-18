@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Nathan👋
 
-<!--
-**Nathan-HaoHang-Lin/Nathan-HaoHang-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate at The University of Texas at Dallas. Currently preparing to enter UTD’s Fast Track Program to begin graduate-level coursework while completing my bachelor’s degree. 
 
-Here are some ideas to get you started:
+## Skills
+### Languages 
+Experience with the following languages, with strongest proficiency with C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java)](https://skillicons.dev)
+
+### Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=clion,vscode)](https://skillicons.dev)
+
